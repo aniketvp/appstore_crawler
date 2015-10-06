@@ -1,0 +1,24 @@
+genre_id,genre_name,genre_url,num_subgenres
+1,Books,https://itunes.apple.com/us/genre/ios-books/id6018?mt=8,0
+2,Business,https://itunes.apple.com/us/genre/ios-business/id6000?mt=8,0
+3,Catalogs,https://itunes.apple.com/us/genre/ios-catalogs/id6022?mt=8,0
+4,Education,https://itunes.apple.com/us/genre/ios-education/id6017?mt=8,0
+5,Entertainment,https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8,0
+6,Finance,https://itunes.apple.com/us/genre/ios-finance/id6015?mt=8,0
+7,Food & Drink,https://itunes.apple.com/us/genre/ios-food-drink/id6023?mt=8,0
+8,Games,https://itunes.apple.com/us/genre/ios-games/id6014?mt=8,18
+9,Health & Fitness,https://itunes.apple.com/us/genre/ios-health-fitness/id6013?mt=8,0
+10,Lifestyle,https://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8,0
+11,Medical,https://itunes.apple.com/us/genre/ios-medical/id6020?mt=8,0
+12,Music,https://itunes.apple.com/us/genre/ios-music/id6011?mt=8,0
+13,Navigation,https://itunes.apple.com/us/genre/ios-navigation/id6010?mt=8,0
+14,News,https://itunes.apple.com/us/genre/ios-news/id6009?mt=8,0
+15,Magazines & Newspapers,https://itunes.apple.com/us/genre/ios-magazines-newspapers/id6021?mt=8,28
+16,Photo & Video,https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8,0
+17,Productivity,https://itunes.apple.com/us/genre/ios-productivity/id6007?mt=8,0
+18,Reference,https://itunes.apple.com/us/genre/ios-reference/id6006?mt=8,0
+19,Social Networking,https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8,0
+20,Sports,https://itunes.apple.com/us/genre/ios-sports/id6004?mt=8,0
+21,Travel,https://itunes.apple.com/us/genre/ios-travel/id6003?mt=8,0
+22,Utilities,https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8,0
+23,Weather,https://itunes.apple.com/us/genre/ios-weather/id6001?mt=8,0
